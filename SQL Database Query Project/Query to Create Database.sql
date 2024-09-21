@@ -1,0 +1,1 @@
+CREATE DATABASE Urun_Musteri_Teslimat;
